@@ -1,6 +1,6 @@
 # Logging Repository for Go
 
-This repository provides a flexible logging solution in Go, allowing seamless integration with various logging packages such as Zap or Zero-Log. The design emphasizes modularity, enabling easy swapping between different logging implementations while maintaining a structured logging format.
+This repository provides a flexible logging solution in Go, allowing seamless integration with various logging packages such as Zap or ZeroLog. The design emphasizes modularity, enabling easy swapping between different logging implementations while maintaining a structured logging format.
 
 ## Overview
 
