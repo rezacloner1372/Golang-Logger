@@ -1,0 +1,9 @@
+# some code here...
+
+logger:
+  filePath: ../logs/logs.log
+  encoding: json
+  level: debug
+  logger: zerolog
+
+  # some code here...
